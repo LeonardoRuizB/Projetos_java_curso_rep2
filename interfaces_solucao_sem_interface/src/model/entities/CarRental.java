@@ -20,6 +20,7 @@ public class CarRental {
     }
 
     public LocalDateTime getStart() {
+
         return start;
     }
 
@@ -28,10 +29,12 @@ public class CarRental {
     }
 
     public LocalDateTime getFinish() {
+
         return finish;
     }
 
     public void setFinish(LocalDateTime finish) {
+
         this.finish = finish;
     }
 
