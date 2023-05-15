@@ -14,7 +14,7 @@ public class Program {
 
         Number x = list.get(0);
 
-        list.add(20);
+        //list.add(20);
 
         // GET - OK
         // PUT - ERROR
