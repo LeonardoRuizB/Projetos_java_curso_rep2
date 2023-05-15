@@ -6,9 +6,9 @@ import java.util.Set;
 public class Program {
     public static void main(String[] args) {
 
-        //HashSet = Extremamente rápido, porém não mantém a ordem
-        //TreeSet = Manda de ordem alfabética
-        //LinkedHasSet = Matém a ordem em que são inseridos
+        //HashSet = Mais rápido, porém não mantém a ordem
+        //TreeSet = Mais lento, Manda de ordem alfabética
+        //LinkedHasSet = Velocidade intermediaria, Matém a ordem em que são inseridos
 
         Set<String> set = new LinkedHashSet<>();
 
