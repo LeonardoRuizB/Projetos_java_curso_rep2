@@ -3,7 +3,7 @@ package application;
 import java.util.Arrays;
 
 public class Program {
-    
+
     public static int globalValue = 3;
 
     public static void main(String[] args) {
